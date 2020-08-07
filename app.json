@@ -23,7 +23,8 @@
       "favicon": "./assets/favicon.png"
     },
     "android": {
-      "package": "com.ahmedsomaa.testApp"
+      "package": "com.ahmedsomaa.testApp",
+      "versionCode": 1
     }
   }
 }
