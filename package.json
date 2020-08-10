@@ -21,7 +21,7 @@
   },
   "private": true,
   "android": {
-    "package": "com.ahmedsomaa.testApp",
+    "package": "com.test.testApp",
     "versionCode": 1
   },
   "expo": {
